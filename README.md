@@ -14,6 +14,4 @@ Hamza BITI, Hamza ECH-CHARQY,Lena GHALEM, Yanis HAMITI, Asmaa QAOS, Sylia SADOUD
 
 ### Sommaire
 
-* Code
-
-..* ylia
+1.Code
