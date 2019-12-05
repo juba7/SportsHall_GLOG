@@ -15,8 +15,7 @@ Hamza BITI, Hamza ECH-CHARQY,Lena GHALEM, Yanis HAMITI, Asmaa QAOS, Sylia SADOUD
 ### Sommaire
 
 1. Code
-* Téléchargement [google] (http://www.google.com "link to google")
-
+  > [Téléchargement](https://stackedit.io/).
 2. Gestion d'une salle de sport
 * Introdution
 * Cahier des charges
