@@ -28,7 +28,7 @@ Hamza BITI, Hamza ECH-CHARQY,Lena GHALEM, Yanis HAMITI, Asmaa QAOS, Sylia SADOUD
 En attendant de pouvoir de télécharger le logiciel (gestion d'une salle de sport) vous trouverez dans les répértoires de ce projet les différentes versions d'avancement. Comme mentionné plus haut le code est développé sur Java, pour pouvoir le compiler et l'exécuter, L'IDE Eclipse(ou NetBeans) est nécessaire.
 
 
-## 2. Gestion d'une introduction 
+## 2. Gestion d'une salle de sport
 #### Présentation
 
 Pour mettre en pratique le cours de Genie Logiciel et Gestion de projet (GLOG) et accentuer nos connaissance informatiques, nous avons choisi de développer un logiciel de gestion d'une salle de sport.
