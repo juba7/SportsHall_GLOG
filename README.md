@@ -51,7 +51,9 @@ __Cahier de charge interface de l'application__
 - Création de la page d'accueil
 - Création du bouton de recherche
 - Création de la page d'inscription
-- Création page de gestion du calendrier (prendre
+- Création page de gestion du calendrier calendrier
+- Création page aperçu journalier
+- Création d'un login (facultatif)
 
 #### Planning (Diagramme de Gantt)
 Le planning de l'ensemble des travaux effectués est dans les répétoires de ce projet.
