@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="Projet_Glog_Fx.jar" size="14828" download="eager" />
+    <jar href="Projet_Glog_Fx.jar" size="33819" download="eager" />
     <jar href="lib\jfoenix-8.0.8.jar" size="2708772" download="eager" />
     <jar href="lib\jfoenix-9.0.8.jar" size="2419463" download="eager" />
   </resources>
