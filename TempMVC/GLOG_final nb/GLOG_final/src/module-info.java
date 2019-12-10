@@ -1,0 +1,2 @@
+module GLOG_final {
+}
