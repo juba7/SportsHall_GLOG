@@ -31,7 +31,7 @@ En attendant de pouvoir de télécharger le logiciel (gestion d'une salle de spo
 #### Présentation
 
 Pour mettre en pratique le cours de Genie Logiciel et Gestion de projet (GLOG) et accentuer nos connaissance informatiques, nous avons choisi de développer un logiciel de gestion d'une salle de sport.
-Le developpement de ce logiciel permet de bien assimiler les différentes analyses vues en cours ([Statique](https://github.com/juba7/SportsHall_GLOG/tree/master/Analyse%20statique), [fonctionnelle](https://github.com/juba7/SportsHall_GLOG/tree/master/Analyse%20fonctionnelle), [dynamique](https://github.com/juba7/SportsHall_GLOG/tree/master/Analyse%20dynamique)), d'appréhender les problèmes liés à la gestion du projet et du logiciel lui-meme.
+Le developpement de ce logiciel permet de bien assimiler les différentes analyses vues en cours ([statique](https://github.com/juba7/SportsHall_GLOG/tree/master/Analyse%20statique), [fonctionnelle](https://github.com/juba7/SportsHall_GLOG/tree/master/Analyse%20fonctionnelle), [dynamique](https://github.com/juba7/SportsHall_GLOG/tree/master/Analyse%20dynamique)), d'appréhender les problèmes liés à la gestion du projet et du logiciel lui-meme.
 
 #### Cahier des charges
 La version complète du cahier des charges figurent dans les répértoires cités pus haut, voici un résumé :
